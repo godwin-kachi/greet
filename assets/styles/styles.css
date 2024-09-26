@@ -7,6 +7,10 @@
 a {
     text-decoration: none;
 }
+
+.slider img {
+    width: 100vw;
+}
 ul {
   list-style-type: none;  
 }
